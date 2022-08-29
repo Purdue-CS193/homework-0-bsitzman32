@@ -1,3 +1,15 @@
+# Ben Sitzman's First CS193 Homework
+
+Some of my favorite things about CS193 are:
+
+```markdown
+
+- Smaller class size
+- More informational than demanding
+- Only one in-person lecture per week
+- Theo and Rohan
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
