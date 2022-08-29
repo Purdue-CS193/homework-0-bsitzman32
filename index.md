@@ -3,7 +3,6 @@
 Some of my favorite things about CS193 are:
 
 ```markdown
-
 - Smaller class size
 - More informational than demanding
 - Only one in-person lecture per week
